@@ -1,2 +1,3 @@
 # SFMx
-Software, firmware and supporting information for SFMx
+
+Supporting information for SFMx
