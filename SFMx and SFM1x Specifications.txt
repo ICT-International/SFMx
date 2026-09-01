@@ -7,7 +7,7 @@ SFMx and SFMx Specifications
         * = 4.20Volts: Fully Charged (100%).
         * < 3.68Volts: Operationally Discharged (0%); Instrument ceases to take measurements. >3.75Volts Instrument resumes to take measurements.
         * < 2.90Volts: Fully Discharged Battery; Instrument automatically switches off at and below this voltage when no external power connected.
-      Charge Rate
+      Internal Charge Rate:
       * Bus Plug Power as primary source:
         * 60mA – 200mA variable internal charge rate, maximum charge rate of 200mA is active when the external voltage rises above 16 Volts DC.
       * USB-C Power as primary source: 
@@ -20,5 +20,5 @@ SFMx and SFMx Specifications
             * non-polarised at the bus plugs.
               * 100mA maximum at 20 volts during charging.
               *  15mA minimum at 20 volts during idle, idle power conditions when battery fully charged.  
-      * USB Power	Power: 
+      * USB Power: 
         * 5Volts DC. NOTE: Voltages above 5.5Volts will damage the SFM charging circuitry.
